@@ -1,4 +1,4 @@
-Full-Stack Developer 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechTalkZach&layout=compact&theme=transparent)](https://github.com/TechTalkZach/github-readme-stats)
 
 
